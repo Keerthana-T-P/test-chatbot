@@ -1,16 +1,22 @@
-<a href="https://chat.vercel.ai/">
-  
-  <h1 align="center">Next.js Gemini Chatbot</h1>
-</a>
+## Sustainable Shopping Assistant Chatbot
+A chatbot designed to assist users in making sustainable purchasing decisions. This chatbot provides information on eco-friendly products and guides users on recycling and repurposing items effectively.
 
-<p align="center">
-  An Open-Source AI Chatbot that assists users in making sustainable purchasing decisions built with Next.js and the AI SDK by Vercel.
-</p>
-
-
-<br/>
+## Introduction
+The Sustainable Shopping Assistant Chatbot is built to promote eco-friendly habits among consumers. It educates users on making sustainable choices, minimizing waste, and adopting environmentally conscious practices in their daily lives.
 
 ## Features
+Eco-Friendly Product Recommendations: Suggests products that are sustainable and environmentally friendly.
+Waste Reduction Tips: Provides actionable advice to minimize waste.
+Recycling Guidance: Guides users on how to recycle materials properly.
+Interactive Conversations: Engages users with personalized and easy-to-understand responses.
+
+## How It Works
+User Interaction: Users ask questions or seek advice related to sustainable living.
+Natural Language Processing: The chatbot uses NLP to understand the query.
+Knowledge Base: The chatbot pulls relevant information from its database of eco-friendly practices, products, and recycling guidelines.
+Response Generation: A clear and actionable response is provided to the user.
+
+## Frameworks used
 
 - [Next.js](https://nextjs.org) App Router
   - Advanced routing for seamless navigation and performance
