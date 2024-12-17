@@ -1,4 +1,4 @@
-## Sustainable Shopping Assistant Chatbot
+## EcoMate
 A chatbot designed to assist users in making sustainable purchasing decisions. This chatbot provides information on eco-friendly products and guides users on recycling and repurposing items effectively.
 
 ## Introduction
@@ -15,6 +15,9 @@ User Interaction: Users ask questions or seek advice related to sustainable livi
 Natural Language Processing: The chatbot uses NLP to understand the query.
 Knowledge Base: The chatbot pulls relevant information from its database of eco-friendly practices, products, and recycling guidelines.
 Response Generation: A clear and actionable response is provided to the user.
+
+![Screenshot 2024-12-17 212457](https://github.com/user-attachments/assets/f9417db3-2d0b-4162-a341-8717d677f8ad)
+
 
 ## Frameworks used
 
